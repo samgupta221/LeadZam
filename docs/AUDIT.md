@@ -84,17 +84,6 @@ Before considering this redesign production-ready, I would validate the followin
 
 These measurements would help determine whether the redesign actually improves the workflow.
 
-## 5. What I Would Improve With Two More Hours
-
-If I had additional development time, I would prioritize:
-
-1. Implement drag-and-drop field reordering with keyboard accessibility.
-2. Add a complete Add Field workflow.
-3. Introduce an unsaved-changes confirmation when closing the drawer.
-4. Show a data-impact warning before changing the type of an existing field.
-5. Add component-level tests for important interactions.
-6. Create a before-and-after comparison using screenshots from an accessible live product environment.
-
 ## Conclusion
 
 This redesign focuses on simplifying the Lead Fields Management workflow through clearer organization, explicit requirement choices, contextual editing, and safer actions.
