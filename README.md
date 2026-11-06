@@ -404,6 +404,5 @@ AI was used as a development assistant. The final scope, design decisions, revie
 | Screenshots | `docs/screenshots/` |
 | Demo Walkthrough Script | `docs/DEMO_SCRIPT.md` |
 | Live Preview | [Netlify Application](https://wondrous-croissant-444e65.netlify.app/) |
-| Demo Video | To be added after recording |
 
 ---
