@@ -57,16 +57,6 @@ The audit identified four prioritized opportunities for improvement.
 
 This issue was selected for deeper improvement because field configuration can directly affect lead data collection, consistency, and the way teams manage their CRM fields.
 
-### Evidence and Access Limitations
-
-The authenticated LeadZam application at `app.leadzam.com` was not accessed because authenticated access was unavailable.
-
-Therefore, the selected problem is based on task analysis and the supplied assignment brief, supported by the proposed design, rather than direct observation of the authenticated production interface.
-
-Marketing-site findings are based on the text reviewed and should be visually verified before making final product recommendations.
-
-**Detailed audit:** [View UI/UX Audit](docs/AUDIT.md)
-
 ## Explain Your Thinking
 
 ### 1. What Is the Biggest UX Problem?
